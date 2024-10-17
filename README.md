@@ -4,7 +4,7 @@
   
   ### <img src="https://static.wikia.nocookie.net/lord-of-the-mystery/images/8/8b/Wheel_of_Fortune_Symbol2.png/revision/latest?cb=20230526081826" width="25px"> Im Nephirea! <img src="https://static.wikia.nocookie.net/lord-of-the-mystery/images/8/8b/Wheel_of_Fortune_Symbol2.png/revision/latest?cb=20230526081826" width="25px">
   
-  *Im prolly **[Nephirea](https://github.com/Nephirea)** or im prolly a cat!?* 
+  *Im prolly **[Nephirea](https://github.com/Nephirea)**... or im prolly a cat!?* 
   
   ![GitHub followers](https://img.shields.io/github/followers/Nephirea?style=social)
   ![GitHub stars](https://img.shields.io/github/stars/Nephirea?style=social)
@@ -31,7 +31,7 @@ Im in love with cats /ᐠ - ˕ -マ
 <br>
 
 <div align="center">
-  <img src="https://example.com/path-to-your-pixel-art-image.png" alt="Pixel Art" width="200"> <!-- Reemplaza esta URL con la URL de tu imagen de pixel art -->
-  <p>Sleepy...</p>
+  <img src="https://www.artstation.com/artwork/qeJ38a" alt="Pixel Art" width="200"> <!-- Reemplaza esta URL con la URL de tu imagen de pixel art -->
+  <p>**[Sleepy]**...</p>
 </div>
 
