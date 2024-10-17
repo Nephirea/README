@@ -2,9 +2,9 @@
 <div align="center">
   <img src="https://i.imgur.com/OQCmB2H.gif" alt="Hello Kitty" width="200">
   
-  ### <img src="https://i.imgur.com/AQgQu4o.png" width="25px"> Welcome to My GitHub Profile! <img src="https://i.imgur.com/AQgQu4o.png" width="25px">
+  ### <img src="https://i.imgur.com/AQgQu4o.png" width="25px"> Im Nephirea! <img src="https://i.imgur.com/AQgQu4o.png" width="25px">
   
-  *Meow! I'm **[Dani](https://github.com/tu-usuario)** and I love coding with a cute twist.* 
+  *Meow! I'm **[Nephirea](https://github.com/tu-usuario)** and I love coding with a cute twist.* 
   
   ![GitHub followers](https://img.shields.io/github/followers/tu-usuario?style=social)
   ![GitHub stars](https://img.shields.io/github/stars/tu-usuario?style=social)
