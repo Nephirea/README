@@ -31,7 +31,7 @@ Im in love with cats /ᐠ - ˕ -マ
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/jYEEypc.gif" alt="Pixel Art" width="600"> <!-- Reemplaza esta URL con la URL de tu imagen de pixel art -->
+  <img src="https://cdn.pfps.gg/banners/2388-white-trees.gif" alt="Pixel Art" width="400"> <!-- Reemplaza esta URL con la URL de tu imagen de pixel art -->
   <p>Sleepy...</p>
 </div>
 
