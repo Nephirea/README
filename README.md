@@ -4,10 +4,10 @@
   
   ### <img src="https://static.wikia.nocookie.net/lord-of-the-mystery/images/8/8b/Wheel_of_Fortune_Symbol2.png/revision/latest?cb=20230526081826" width="25px"> Im Nephirea! <img src="https://static.wikia.nocookie.net/lord-of-the-mystery/images/8/8b/Wheel_of_Fortune_Symbol2.png/revision/latest?cb=20230526081826" width="25px">
   
-  *Im prolly **[Nephirea](https://github.com/tu-usuario)** or im prolly a cat!?* 
+  *Im prolly **[Nephirea](https://github.com/Nephirea)** or im prolly a cat!?* 
   
-  ![GitHub followers](https://img.shields.io/github/followers/tu-usuario?style=social)
-  ![GitHub stars](https://img.shields.io/github/stars/tu-usuario?style=social)
+  ![GitHub followers](https://img.shields.io/github/followers/Nephirea?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/Nephirea?style=social)
 </div>
 
 ---
@@ -21,8 +21,6 @@ Im in love with cats /ᐠ - ˕ -マ
 
 ---
 <br>
-
-### <img src="https://i.imgur.com/UaGhdXK.png" width="65px"> <img src="https://i.imgur.com/AQgQu4o.png" width="255px" alt="Languages Banner"> <img src="https://i.imgur.com/UaGhdXK.png" width="65px">
 <p align="center">
   <img src="https://img.shields.io/badge/-C-9fc3e3?style=for-the-badge&logo=c&logoColor=white&labelColor=000000">
   <img src="https://img.shields.io/badge/-Python-9fc3e3?style=for-the-badge&logo=python&logoColor=white&labelColor=000000">
