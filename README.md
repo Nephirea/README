@@ -13,8 +13,6 @@
 ---
 <br>
 
-### <img src="https://i.imgur.com/vTJWPYB.gif" width="100px">
-
 i really love Python!
 Learning C and C++
 Im in love with cats /ᐠ - ˕ -マ
@@ -22,6 +20,7 @@ Im in love with cats /ᐠ - ˕ -マ
 ---
 <br>
 <p align="center">
+   <img src="https://img.shields.io/badge/-C-9fc3e3?style=for-the-badge&logo=c&logoColor=white&labelColor=000000">
   <img src="https://img.shields.io/badge/-Python-9fc3e3?style=for-the-badge&logo=python&logoColor=white&labelColor=000000">
   <img src="https://img.shields.io/badge/-C%2B%2B-9fc3e3?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000">
 </p>
