@@ -1,10 +1,10 @@
 # README
 <div align="center">
-  <img src="https://media1.tenor.com/m/oCHqwcyYFI0AAAAC/lord-of-the-mysteries-lord-of-mysteries.gif" alt="Neph;;" width="200">
+  <img src="https://media1.tenor.com/m/5O7_1EBOQLIAAAAd/klein-moretti-lord-of-the-mysteries.gif" alt="Neph;;" width="200">
   
-  ### <img src="https://i.imgur.com/AQgQu4o.png" width="25px"> Im Nephirea! <img src="https://i.imgur.com/AQgQu4o.png" width="25px">
+  ### <img src="https://static.wikia.nocookie.net/lord-of-the-mystery/images/8/8b/Wheel_of_Fortune_Symbol2.png/revision/latest?cb=20230526081826" width="25px"> Im Nephirea! <img src="https://static.wikia.nocookie.net/lord-of-the-mystery/images/8/8b/Wheel_of_Fortune_Symbol2.png/revision/latest?cb=20230526081826" width="25px">
   
-  *Meow! I'm **[Nephirea](https://github.com/tu-usuario)** and I love coding with a cute twist.* 
+  *Im prolly **[Nephirea](https://github.com/tu-usuario)** or im prolly a cat!?* 
   
   ![GitHub followers](https://img.shields.io/github/followers/tu-usuario?style=social)
   ![GitHub stars](https://img.shields.io/github/stars/tu-usuario?style=social)
