@@ -13,9 +13,7 @@
 ---
 <br>
 
-i really love Python!
-Learning C and C++
-Im in love with cats /ᐠ - ˕ -マ
+  *I fr love cats and caramel coffe!* 
 
 ---
 <br>
