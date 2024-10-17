@@ -1,6 +1,6 @@
 # README
 <div align="center">
-  <img src="https://i.imgur.com/OQCmB2H.gif" alt="Hello Kitty" width="200">
+  <img src="https://media1.tenor.com/m/oCHqwcyYFI0AAAAC/lord-of-the-mysteries-lord-of-mysteries.gif" alt="Neph;;" width="200">
   
   ### <img src="https://i.imgur.com/AQgQu4o.png" width="25px"> Im Nephirea! <img src="https://i.imgur.com/AQgQu4o.png" width="25px">
   
