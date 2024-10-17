@@ -1,6 +1,6 @@
 # README
 <div align="center">
-  <img src="https://media1.tenor.com/m/5O7_1EBOQLIAAAAd/klein-moretti-lord-of-the-mysteries.gif" alt="Neph;;" width="200" height="200>
+  <img src="https://media1.tenor.com/m/5O7_1EBOQLIAAAAd/klein-moretti-lord-of-the-mysteries.gif" alt="Neph;;" width="600" height="200>
   
   ### <img src="https://static.wikia.nocookie.net/lord-of-the-mystery/images/8/8b/Wheel_of_Fortune_Symbol2.png/revision/latest?cb=20230526081826" width="25px"> Im Nephirea! <img src="https://static.wikia.nocookie.net/lord-of-the-mystery/images/8/8b/Wheel_of_Fortune_Symbol2.png/revision/latest?cb=20230526081826" width="25px">
   
